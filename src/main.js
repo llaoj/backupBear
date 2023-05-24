@@ -3,6 +3,7 @@
 import '@tabler/core/dist/css/tabler.min.css'
 import '@tabler/core/dist/js/tabler.min.js'
 import '@tabler/core/dist/js/demo-theme.min.js'
+import { IconPlus } from '@tabler/icons-vue';
 
 import { createApp } from 'vue'
 import App from './App.vue'
